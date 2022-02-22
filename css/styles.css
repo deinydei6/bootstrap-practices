@@ -1,0 +1,41 @@
+.header{
+	background-image: url('../img/top-banner.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+
+/* .img {
+	width: 250px;
+} */
+
+.card-text {
+	width: 100%;
+	/* max-width: 150px; */
+	display: inline-block;
+	flex-wrap: wrap;
+}
+
+#text {
+	height: 500px;
+	width: 100%;
+	margin-left: 20px;
+	margin-right: 10px;
+  	vertical-align: middle;
+}
+
+.h3 {
+	position: relative;
+}
+
+.h3 h3 {
+	position: absolute;
+	left: 30%;
+	width: 200px;
+}
+
+.text {
+	margin-top: 40px;
+}
